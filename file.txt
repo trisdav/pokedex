@@ -1,0 +1,4 @@
+Pokedex > Your command was: asdf
+Pokedex > Your command was: asdf
+Pokedex > Your command was: asd
+Pokedex > 
